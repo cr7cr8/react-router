@@ -5,7 +5,7 @@ import {
   RouterProvider
 } from 'react-router-dom'
 
-// pages //6666
+// pages //888
 import Home from './pages/Home'
 import About from './pages/About'
 import Faq from './pages/help/Faq'
